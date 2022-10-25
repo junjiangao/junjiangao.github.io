@@ -172,7 +172,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     // 博主信息 (显示在首页侧边栏)
     blogger: {
-      avatar: '',
+      avatar: 'https://github.com/identicons/xyzhuanjian.png',
       name: 'junjiangao',
       slogan: '哈哈，这是个测试',
     },
